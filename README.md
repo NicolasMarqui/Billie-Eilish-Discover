@@ -3,7 +3,7 @@
 ![Home](https://i.imgur.com/OXQMu9l.png)
 
 # Challenge
-Create one page about an artist you enjoy
+Create one page about an artist you enjoy in under 3 hours(Design Included)
 
 # Rules!
   - No Frameworks!
